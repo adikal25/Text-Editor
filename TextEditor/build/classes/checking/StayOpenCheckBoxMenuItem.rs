@@ -1,0 +1,2 @@
+StayOpenCheckBoxMenuItem$1
+StayOpenCheckBoxMenuItem

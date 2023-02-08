@@ -1,0 +1,5 @@
+CompoundUndoManager
+CompoundUndoManager$1
+CompoundUndoManager$MyCompoundEdit
+CompoundUndoManager$UndoAction
+CompoundUndoManager$RedoAction
